@@ -1,0 +1,7 @@
+pandas
+numpy
+seaborn
+
+#-e . in video code it is commented
+#had to remove -e . since it gives error during pip install -r requirements.txt 
+#-e . #it auto triggers setup.py 
