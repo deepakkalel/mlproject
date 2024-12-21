@@ -1,0 +1,13 @@
+need to learn flask and should have basic UI (interface knowledge)
+
+html part is already available not much explained and not needed as well since it will design by front end team
+
+
+
+added solution for session 8 
+or Internal Server Error The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+solution: typo error for preprocessor in code line >  preprocessor_obj_file_path=os.path.join('artifacts',"preprocessor.pkl")
+
+link to use: http://127.0.0.1:5000/predictdata
+
+
